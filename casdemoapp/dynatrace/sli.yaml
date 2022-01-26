@@ -1,0 +1,4 @@
+---
+spec_version: '1.0'
+indicator:
+  proc_count: "metricSelector=builtin:tech.generic.processCount"
